@@ -1,8 +1,37 @@
 # Uber-New-York-Data-Analysis
 This repository contains the Uber New York Data Analysis project. The project aims to analyze Uber pickup data in New York City to uncover patterns in ride demand, peak hours, and popular locations using various data analysis techniques in Python. The analysis provides valuable insights into urban mobility trends, which can inform business decision-making and enhance understanding of travel behavior in a bustling metropolis like NYC. 
 
+Table of Contents
+-Project Overview
+-Data Source
+-Technologies Used
+-Project Structure
+-Key Insights
 
+Project Overview:
+This project aims to perform an in-depth analysis of Uber's pickup data in New York City, focusing on identifying trends, peak times, high-demand areas, and temporal patterns. This analysis helps understand urban transportation dynamics and can aid businesses in optimizing their strategies.
 
+Data Source:
+The dataset used in this project contains Uber pickup data in New York City, including timestamps and geographic coordinates of the pickups. The data is publicly available and was sourced from Uber’s official dataset on Kaggle or similar public repositories.
+
+Technologies Used:
+-Programming Language: Python
+-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, Geopandas
+-Environment: Jupyter Notebook
+-Visualization Tools: Matplotlib, Seaborn, Plotly for interactive visualizations
+
+Project Structure
+-Data Cleaning and Preparation: Loading, cleaning, and preprocessing raw data to ensure it is ready for analysis.
+
+-Exploratory Data Analysis (EDA): Performing EDA to uncover patterns and visualize data distributions.
+
+-Geospatial Analysis: Mapping Uber pickups across New York City to identify high-demand areas.
+
+-Time Series Analysis: Analyzing how ride requests vary over different times of the day, weeks, and seasons.
+
+-Visualization: Creating various visual representations to communicate findings clearly.
+
+Key Insights
 
 Total Rides Analyzed:
 
